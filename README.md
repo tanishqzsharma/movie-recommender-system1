@@ -1,5 +1,5 @@
 # movie-recommender-system1
-App link: https://movie-recommender-system-project-tanishqzsharma.streamlit.app/
+App link: [https://movie-recommender-system-project-tanishqzsharma.streamlit.app/](https://movie-recommender-system1-n55uldvioh2ndhtzgv6raj.streamlit.app/)
 
 Visual of the website:
 
